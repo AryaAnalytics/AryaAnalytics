@@ -1,16 +1,26 @@
-## Hi there 👋
+# Hi there, 👋  
 
-<!--
-**AryaAnalytics/AryaAnalytics** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 **Aspiring Data Analyst** with a growing interest in data visualization, cloud environments, and automation.  
 
-Here are some ideas to get you started:
+💡 I recently completed a **Data Analytics program** focused on:
+- Python (Pandas, Matplotlib, NumPy)
+- SQL and MySQL
+- Power BI and Data Visualization
+- Data Cleaning, Transformation & Reporting  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+---
+
+### 📊 **Projects**
+- **Sales Dashboard in Power BI** – Interactive report for regional sales analysis using Power Query and DAX.  
+- **Python Data Exploration** – EDA using Pandas and Matplotlib to visualize data trends.  
+
+---
+
+### 🛠️ **Tech Stack**
+**Languages:** Python, SQL  
+**Tools:** Power BI, MySQL, MS Excel  
+**Platforms:** Jupyter Notebook, PyCharm, AWS  
+**Soft Skills:** Analytical Thinking, Team Collaboration, Communication  
+
+---
